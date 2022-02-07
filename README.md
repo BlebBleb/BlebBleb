@@ -6,7 +6,7 @@ As of February 2022, I have no projects at the moment but I am open to suggestio
 
 I'm currently know Java,Python JScprit & TypeScript.
 
-I'm currently learning Spigot/Bukkit.
+I currently learning Spigot/Bukkit.
 
 Outside of development, I like too play video games, learn about science and histroy, read fiction being scared of automactic door's, listen to music(MUSSICCC MANNNNN!!!!!).
 
