@@ -4,9 +4,9 @@ Pronouns:she/they
 
 As of February 2022, I have no projects at the moment but I am open to suggestions you can contact me at abbysdeveloper@gmail.com.
 
-I'm currently know Java,Python JScprit & TypeScript.
+I currently know Java,Python JScprit & TypeScript.
 
-I currently learning Spigot/Bukkit.
+I'm currently learning Spigot/Bukkit.
 
 Outside of development, I like too play video games, learn about science and histroy, read fiction being scared of automactic door's, listen to music(MUSSICCC MANNNNN!!!!!).
 
