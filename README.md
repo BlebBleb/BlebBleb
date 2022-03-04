@@ -8,9 +8,9 @@ I currently know Java,Python JScprit & TypeScript.
 
 I'm currently learning Spigot/Bukkit.
 
-Outside of development, I like too play video games, learn about science and histroy, read fiction being scared of automactic door's, listen to music(MUSSICCC MANNNNN!!!!!).
+Outside of development, I like too play video games, learn about science and histroy, read fiction being scared of automactic door's, listen to music.
 
-Anyway, thanks for listening Hope you have a wonderful day.
+Anyway, thanks for reading Hope you have a wonderful day.
 
 <!---
 BlebBleb/BlebBleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
