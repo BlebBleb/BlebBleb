@@ -2,7 +2,7 @@ Hello! I'm BlebBleb/Abby I'm a software engineer and coffee enthusiast.
 
 Pronouns:she/they 
 
-As of February 2022, I have no projects at the moment but I am open to suggestions you can contact me at abbysdeveloper@gmail.com.
+As of February 2022, I have no projects at the moment but I am open to collab you can contact me at abbysdeveloper@gmail.com.
 
 I currently know Java,Python JScprit & TypeScript.
 
