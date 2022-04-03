@@ -4,7 +4,7 @@ Hello! I'm BlebBleb/Abby I'm a software engineer and coffee enthusiast.
 
 😀 Pronouns:she/they
 
-🔭 I'm not working on anything at the momment but I'm free to collab.
+🔭 I'm not working on anything at the moment but I'm free to collab.
 
 📫Contact me by:abbysdeveloper@gmail.com
 
