@@ -1,16 +1,13 @@
+#HiHi! 👋
+
 Hello! I'm BlebBleb/Abby I'm a software engineer and coffee enthusiast.
+😀 Pronouns:she/they
+🔭 I'm not working on anything at the momment but I'm free to collab.
+📫Contact me by:abbysdeveloper@gmail.com
 
-Pronouns:she/they 
-
-As of February 2022, I have no projects at the moment but I am open to collab you can contact me at abbysdeveloper@gmail.com.
-
-I currently know Java,Python JScprit & TypeScript.
-
-I'm currently learning Spigot/Bukkit & Go on the side.
-
-Outside of development, I like too play video games, learn about science and histroy, read fiction being scared of automactic door's, listen to music.
-
-Anyway, thanks for reading Hope you have a wonderful day.
+#Disappointing Stats
+- name: Profile Readme Stats
+  uses: BlebBleb/profile-readme-stats@v1.2
 
 <!---
 BlebBleb/BlebBleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
