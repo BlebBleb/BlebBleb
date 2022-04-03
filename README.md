@@ -1,4 +1,4 @@
-HiHi! 👋
+# HiHi! 👋
 
 Hello! I'm BlebBleb/Abby I'm a software engineer and coffee enthusiast.
 
@@ -8,7 +8,7 @@ Hello! I'm BlebBleb/Abby I'm a software engineer and coffee enthusiast.
 
 📫Contact me by:abbysdeveloper@gmail.com
 
-Disappointing Stats
+# Disappointing Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlebBleb&theme=radical)
 <!---
