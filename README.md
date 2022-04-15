@@ -6,7 +6,11 @@ Hello! I'm BlebBleb/Abby I'm a software engineer and coffee enthusiast.
 
 🔭 I'm not working on anything at the moment but I'm free to collab.
 
-📫Contact me by:abbysdeveloper@gmail.com
+📫 Contact me by:abbysdeveloper@gmail.com
+
+🧠 Languages I know are Java,Python,JavaScript & TypeScript
+
+🤔 Languages I'm looking to learn are Rust and Solidity 
 
 # Disappointing Stats
 
