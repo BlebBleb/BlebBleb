@@ -1,6 +1,6 @@
 # HiHi! 👋
 
-Hello! I'm BlebBleb/Abby I'm a software engineer and coffee enthusiast.
+Hello! I'm BlebBleb/Abby I'm a software engineer and ♨️ enthusiast.
 
 😀 Pronouns:she/they
 
