@@ -10,7 +10,7 @@ Hello! I'm BlebBleb/Abby I'm a software engineer and ♨️ enthusiast.
 
 🧠 Languages I know are Java,Python,JavaScript & TypeScript
 
-🤔 Languages I'm looking to learn are Rust and Solidity 
+🤔 Languages I'm looking to learn are Rust and Solidity & Go!
 
 # Disappointing Stats
 
