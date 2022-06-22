@@ -8,7 +8,7 @@ Hello! I'm BlebBleb/Abby I'm a software engineer and ♨️ enthusiast.
 
 📫 Contact me by:abbysdeveloper@gmail.com
 
-🧠 Languages I know are java,python,golang,javascript,C/C++ & typescript
+🧠 Languages I know are java,python,golang,javascript,the three c's(C/C++ C#) & typescript
 
 🤔 Languages I'm looking to learn are Rust and Solidity!
 
