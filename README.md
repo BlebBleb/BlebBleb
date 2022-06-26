@@ -10,6 +10,8 @@ Hello! I'm BlebBleb/Abby I'm a software engineer and ♨️ enthusiast.
 
 🧠 Languages I know are java,python,golang,javascript,the three c's(C/C++ C#) & typescript
 
+👩‍💻 Technologies I have experience with are Git,Ant,Gradle,Maven,CockroachDB,MongoDB,MySQL,SQLlite & Django
+
 🤔 Languages I'm looking to learn are Rust and Solidity!
 
 # Disappointing Stats
