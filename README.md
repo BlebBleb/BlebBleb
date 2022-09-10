@@ -1,6 +1,6 @@
 # HiHi! 👋
 
-Hello! I'm Abigail I'm a software engineer and ♨️ enthusiast.
+Hello! I'm Abigail I'm a junior software engineer and ♨️ enthusiast.
 
 😀 Pronouns:she/they
 
