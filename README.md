@@ -2,11 +2,11 @@
 
 Hello! I'm Abigail I'm a junior software engineer and ♨️ enthusiast.
 
-😀 Pronouns:she/it
+😀 Pronouns: she/it
 
 🔭 I'm not working on anything at the moment but I'm free to collab.
 
-📫 Contact me by:abbysdeveloper@gmail.com
+📫 Contact me by: abbysdeveloper@gmail.com
 
 🧠 Languages I know are java,python,golang,javascript,the three c's(C/C++ C#) & typescript
 
