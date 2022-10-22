@@ -2,7 +2,7 @@
 
 Hello! I'm Abigail I'm a junior software engineer and ♨️ enthusiast.
 
-😀 Pronouns: she/it
+😀 Pronouns: they/them
 
 🔭 I'm not working on anything at the moment but I'm free to collab.
 
