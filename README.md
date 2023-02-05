@@ -8,7 +8,7 @@ Hello! I'm Abigail I'm a junior software engineer, game designer and ♨️ enth
 
 📫 Contact me by: abbysdeveloper@gmail.com
 
-🧠 Languages I know are java,python,golang,javascript,the three c's(C/C++ C#) & typescript
+🧠 Languages I know are java,python,C,javascript,& typescript
 
 👩‍💻 Technologies I have experience with are Git,Ant,Gradle,Maven,CockroachDB,MongoDB,MySQL,SQLlite & Django
 
