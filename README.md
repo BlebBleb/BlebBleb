@@ -10,7 +10,7 @@ Hello! I'm Abigail I'm a junior software engineer, game designer and ♨️ enth
 
 🧠 Languages I know are java,python,C,javascript,& typescript
 
-👩‍💻 Technologies I have experience with are Git,Ant,Gradle,Maven,CockroachDB,MongoDB,MySQL,SQLlite & Django
+👩‍💻 Technologies I have experience with are Git,Ant,Gradle,Maven,Spring,MongoDB,MySQL,& Django
 
 🤔 Languages I'm looking to learn are Rust and Solidity!
 
