@@ -4,7 +4,7 @@ I'm Abigail but some people online may know me as BlebBleb.
 I like spending most of my free time understanding pieces of software and other things on the internet.
 
 Email: **abbysdeveloper@gmail.com**
-Discord: **blebisred**
+Discord: **_kyoshism**
 # Disappointing Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlebBleb&theme=radical)
